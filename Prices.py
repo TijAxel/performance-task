@@ -1,4 +1,4 @@
-stores = {
+stores = {# a dictionary 
     "cermark": [
         {
             "meats": [("Chicken", 2.99), ("Turkey", 3.99), ("Lamb", 10.99)],
